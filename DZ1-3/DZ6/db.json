@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "5f4d0f97a1aaa1787c52018f"
+  },
+  "Name": "Aragorn",
+  "Text": "Aragorn speak!"  
+},{
+  "_id": {
+    "$oid": "5f4d0fb3c728473c09872a3b"
+  },
+  "Name": "Gimli",
+  "Text": "Gimli speak, Mongo!"
+},{
+  "_id": {
+    "$oid": "5f4d3350379b46eea2269be4"
+  },
+  "Name": "TestingLogger",
+  "Text": "LoggingToster"
+}]
